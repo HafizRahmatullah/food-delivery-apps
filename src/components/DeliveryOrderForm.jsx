@@ -40,7 +40,7 @@ export default function DeliveryOrderForm({ dish, onClose }) {
   };
 
   return (
-    <div className="bg-white p-4 rounded-2xl shadow-lg w-[500px] relative">
+<div className="bg-white p-3 rounded-2xl shadow-lg w-[500px] relative">
 
       {/* Close Button */}
       <button
