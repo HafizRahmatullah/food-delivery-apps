@@ -21,7 +21,7 @@ import Onion from "../assets/bonion.jpeg";
 import Brownie from "../assets/bBrownie.jpeg";
 import Muffins from "../assets/bMuffins.jpeg";
 import Pretzel from "../assets/bPretzel.jpeg";
-import profiteroles from "../assets/bPretzel.jpeg";
+import profiteroles from "../assets/bProfiteroles.jpeg";
 import Sponge from "../assets/bSponge.jpeg";
 
 import Honey from "../assets/cHotHoney.jpeg";
